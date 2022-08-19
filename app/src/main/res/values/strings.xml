@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">AppPalominoAntony</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="tvtituloregistro">Registro</string>
+    <string name="valetemailusuario">CorreoUuario</string>
+    <string name="valetnomusuario">Nombre</string>
+    <string name="valetapeusuario">Apellido</string>
+    <string name="valetcelusuario">Celular</string>
+    <string name="valetusureg">NombreUsuario</string>
+    <string name="valetpassreg">Contraseña</string>
+    <string name="valetrepassreg">Repetir Contraseña</string>
+    <string name="valbtnregistro">Registrar Usuario</string>
+    <string name="valbtnirlogin">Volver Login</string>
+
+    <string name="recordarlogin">¿Recordar datos?</string>
+    <string name="msgloginincompleto">Usuario y password son obligatorios</string>
+    <string name="valetusuario">Usuario</string>
+    <string name="valetpassword">Contraseña</string>
+    <string name="valchkguardardatos">Guardar Datos</string>
+    <string name="valbtnlogin">Iniciar Sesion</string>
+    <string name="valbtnregistrarme">Registrarme</string>
+    <string name="valpagina">Pagina Principal</string>
+</resources>
